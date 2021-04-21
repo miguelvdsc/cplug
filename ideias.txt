@@ -1,0 +1,14 @@
+so quando tiver produtos no carrinho aparece para colocar o desconto
+nif
+tirar info inutil do checkout
+verificar erro dos favoritos (confirmações)
+esquecime do 'blog' burro no menu preciso de adicionar
+remover do carrinho colocar sem ser ajax todo tunado meter o ajax mais simples com location.reaload
+e so retirar o 
+if (this.readyState == 4 && this.status == 200) {
+					document.getElementById("ajax_tr").innerHTML = this.responseText;
+				}
+adicionar encomendas 
+ver pagina favoritos arranjar o botao quando esta vazio
+destaques arranjar de acordo com o resto a largura (erro quando fica em modo telemovel fica para a esquerda)
+col-lg-3 col-md-4 col-sm-6 col-xs-12
